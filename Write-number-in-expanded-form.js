@@ -19,3 +19,5 @@ const expandedForm = n => n.toString()
                             .filter(a => a > 0)
                             .reverse()
                             .join(" + ");
+
+// or
